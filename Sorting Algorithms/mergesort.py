@@ -109,7 +109,7 @@ def main(args):
 
     numbers = generate_numbers(args.low, args.high, args.size, args.seed)
 
-    plt.bar([i for i in range(len(numbers))], numbers color = 'darkgrey')
+    plt.bar([i for i in range(len(numbers))], numbers, color = 'darkgrey')
     plt.show(block=False)
     plt.pause(args.delay)
     plt.clf()
