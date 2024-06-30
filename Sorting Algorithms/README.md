@@ -6,11 +6,15 @@
 ### Bubble Sort
 ![](./GIFs/Bubble.gif)
 
+
 ### Selection Sort
 ![](./GIFs/Selection.gif)
 
+
 ### Merge Sort
 ![](./Gifs/Merge.gif)
+
+
 ## Prerequisite
 ---
 
