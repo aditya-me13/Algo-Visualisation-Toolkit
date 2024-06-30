@@ -4,15 +4,15 @@
 ---
 
 ### Bubble Sort
-![](./GIFs/Bubble.gif)
+![](https://github.com/aditya-me13/Algo-Visualisation-Toolkit/blob/main/Sorting%20Algorithms/Gifs/Bubble.gif)
 
 
 ### Selection Sort
-![](./GIFs/Selection.gif)
+![](https://github.com/aditya-me13/Algo-Visualisation-Toolkit/blob/main/Sorting%20Algorithms/Gifs/Selection.gif)
 
 
 ### Merge Sort
-![](./Gifs/Merge.gif)
+![](https://github.com/aditya-me13/Algo-Visualisation-Toolkit/blob/main/Sorting%20Algorithms/Gifs/Merge.gif)
 
 
 ## Prerequisite
