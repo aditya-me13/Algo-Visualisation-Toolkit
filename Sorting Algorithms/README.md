@@ -1,7 +1,4 @@
-# Visualization for different sorting algorithms
-
 ## Demonstration
----
 
 ### Bubble Sort
 <img src="https://github.com/aditya-me13/Algo-Visualisation-Toolkit/blob/main/Sorting%20Algorithms/Gifs/Bubble.gif" width="400">
@@ -14,7 +11,6 @@
 
 
 ## Prerequisite
----
 
 Install python version 3 on the device and run the following command to install the required packages.
 ```
@@ -22,9 +18,8 @@ pip install -r requirements.txt
 ```
 
 ## Run Arguments
----
 
-The script uses `argparse` to take the following arguments:
+The script uses `argparse` to take the following arguments. None of them are compulsory and will be initialized with default values.
 
 ### `--low`
 
