@@ -6,7 +6,7 @@
 ### Bubble Sort
 <img src="https://github.com/aditya-me13/Algo-Visualisation-Toolkit/blob/main/Sorting_Algorithms/Gifs/Bubble.gif" width="400">
 
-### Merge Sort
+### Insertion Sort
 <img src="https://github.com/aditya-me13/Algo-Visualisation-Toolkit/blob/main/Sorting_Algorithms/Gifs/Insertion.gif" width="400">
 
 ### Merge Sort
